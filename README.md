@@ -8,4 +8,4 @@ Dan dibuat pada <sub>1 Juni 2022</sub>
 > *Status : activated*
 
 **Github pages**:
-[click here](https://eksa-arifa.github.io/kana-bot-chat
+https://eksa-arifa.github.io/kana-bot-chat
