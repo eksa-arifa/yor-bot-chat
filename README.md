@@ -7,5 +7,5 @@ Dan dibuat pada <sub>1 Juni 2022</sub>
 
 > *Status : activated*
 
-**Github pages**:
+**Kana bot interface(github pages)**:
 https://eksa-arifa.github.io/kana-bot-chat
