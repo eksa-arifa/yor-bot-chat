@@ -1,11 +1,11 @@
-# kana-bot-chat
+# Yor Bot Chat
 
 Merupakan bot web sederhana yang dibuat 
 Berdasarkan kegabutan saja...
 
-Dan dibuat pada <sub>1 Juni 2022</sub>
+Dan dibuat pada <sub>27 July 2022</sub>
 
 > *Status : activated*
 
-**Kana bot interface(github pages)**:
-https://eksa-arifa.github.io/kana-bot-chat
+**Yor bot interface(github pages)**:
+https://eksa-arifa.github.io/yor-bot-chat
